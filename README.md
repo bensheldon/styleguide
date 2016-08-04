@@ -1,3 +1,3 @@
 # styleguide
 
-See [issues](/issues)
+See [issues](https://github.com/bensheldon/styleguide/issues)
